@@ -36,6 +36,7 @@ Here are a few things I've picked up along my learning journey.
  [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## 🤝🏻 &nbsp;Connect with Me
+<!--
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -45,8 +46,9 @@ Here are a few things I've picked up along my learning journey.
 <a href="#"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+-->
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrofilnadib&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
 
 <!--
 **asrofilnadib/asrofilnadib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
