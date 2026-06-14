@@ -1,7 +1,5 @@
 # Hi, I'm Asrofil 👨‍💻
 
-Backend & full-stack developer yang fokus membangun aplikasi web yang scalable dan maintainable.
-
 ---
 
 ## GitHub Stats
