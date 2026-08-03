@@ -57,12 +57,12 @@
 
 <div align="center">
 
-  <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrofilnadib&layout=donut&langs_count=6&hide_border=true&theme=onedark&title=Top+Languages+by+Commit" />
+  <img width="49%" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=asrofilnadib&layout=donut&langs_count=6&hide_border=true&theme=onedark" />
   <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asrofilnadib&hide_border=true&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 
   <br/><br/>
 
-  <img width="98%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=asrofilnadib&title=Stars,Followers&theme=onedark&no-frame=true&column=6&margin-w=10&margin-h=10" />
+  <img width="98%" alt="GitHub Trophies" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=asrofilnadib&theme=onedark&no-frame=true&column=6&margin-w=10&margin-h=10" />
 
 </div>
 
