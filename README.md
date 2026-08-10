@@ -1,7 +1,7 @@
-# Hi, I'm Asrofil 👨‍💻
+# Hi, I'm Asrofil
 
 Built stuff? Yup.  
-👉 [Check out my portfolio](https://asrofil-portofolio.vercel.app)
+👉 <a href="https://asrofil-portofolio.vercel.app" target="_blank" rel="noopener noreferrer">Check out my portfolio</a>
 
 ---
 
