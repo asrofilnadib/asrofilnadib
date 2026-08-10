@@ -1,5 +1,8 @@
 # Hi, I'm Asrofil 👨‍💻
 
+Built stuff? Yup.  
+👉 [Check out my portfolio](https://asrofil-portofolio.vercel.app)
+
 ---
 
 ## ⚡ Tech Stack
