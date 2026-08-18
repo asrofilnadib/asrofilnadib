@@ -59,6 +59,60 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1813 commits        ████████░░░░░░░░░░░░░░░░░   30.88 % 
+🌆 Daytime                2652 commits        ███████████░░░░░░░░░░░░░░   45.16 % 
+🌃 Evening                1241 commits        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+🌙 Night                  166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1168 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Tuesday                  996 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Wednesday                1226 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Thursday                 1136 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Friday                   1041 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Sunday                   143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 <div align="center">
