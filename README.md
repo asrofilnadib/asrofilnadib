@@ -59,8 +59,6 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -88,16 +86,34 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   6 hrs 2 mins        █████████████████████████   99.96 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 hrs 29 mins (91.01%)
+
+✍️ 2,908 lines written by AI, 161 lines written by hand (94.75% AI-written)
+
+🔤 42 Input Tokens, 42 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 64 AI Prompts
+
+Grok                     2,905 lines         ████████████████████████░   97.65 % 
+Composer                 70 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.75% of written lines came from AI
+📚 Verbose Prompter — average 3,764 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 5.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
