@@ -59,28 +59,28 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2048%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1814 commits        ████████░░░░░░░░░░░░░░░░░   30.48 % 
-🌆 Daytime                2705 commits        ███████████░░░░░░░░░░░░░░   45.45 % 
-🌃 Evening                1266 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-🌙 Night                  166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+🌞 Morning                1815 commits        ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌆 Daytime                2738 commits        ███████████░░░░░░░░░░░░░░   45.72 % 
+🌃 Evening                1270 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+🌙 Night                  166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1171 commits        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Tuesday                  1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Wednesday                1242 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Thursday                 1166 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Friday                   1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Sunday                   143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Monday                   1174 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Tuesday                  1017 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Wednesday                1246 commits        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Thursday                 1194 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Friday                   1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Sunday                   143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 
 
@@ -90,34 +90,34 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   6 hrs 43 mins       ███████████████████████░░   92.21 % 
-Agent                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Cursor                   7 hrs 9 mins        ███████████████████████░░   92.14 % 
+Agent                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 💻 Operating System: 
-Linux                    7 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 53 mins (66.9%)
+⏱ AI Coding Time: 5 hrs 21 mins (68.96%)
 
-✍️ 11,089 lines written by AI, 547 lines written by hand (95.3% AI-written)
+✍️ 14,348 lines written by AI, 548 lines written by hand (96.32% AI-written)
 
-🔤 13,267 Input Tokens, 13,267 Output Tokens
+🔤 12,619 Input Tokens, 12,619 Output Tokens
 
-💵 $0.24 Estimated AI Cost This Week
+💵 $0.23 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 118 AI Prompts
+🧠 28 AI Sessions, 113 AI Prompts
 
-Grok                     5,153 lines         █████████████████████████   100.00 % 
+Grok                     3,802 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.3% of written lines came from AI
-📄 Detailed Prompter — average 647 characters per prompt
+🤖 AI-Driven — 96.32% of written lines came from AI
+📄 Detailed Prompter — average 618 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.96% of changed lines were hand-edited
+🚀 High AI Trust — 3.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
