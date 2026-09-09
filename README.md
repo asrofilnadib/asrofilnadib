@@ -59,28 +59,28 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1817 commits        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌆 Daytime                2885 commits        ███████████░░░░░░░░░░░░░░   45.96 % 
-🌃 Evening                1409 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+🌞 Morning                1817 commits        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+🌆 Daytime                2892 commits        ████████████░░░░░░░░░░░░░   46.00 % 
+🌃 Evening                1412 commits        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
 🌙 Night                  166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1213 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Tuesday                  1058 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Wednesday                1276 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Thursday                 1270 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Friday                   1155 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Monday                   1213 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Tuesday                  1068 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Wednesday                1276 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Thursday                 1270 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Friday                   1155 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
 Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Sunday                   143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Sunday                   143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
@@ -90,34 +90,34 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   10 hrs 14 mins      ████████████████████████░   97.93 % 
-Agent                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Cursor                   11 hrs 7 mins       ████████████████████████░   97.78 % 
+Agent                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Linux                    10 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 47 mins (93.5%)
+⏱ AI Coding Time: 10 hrs 28 mins (92.01%)
 
-✍️ 10,177 lines written by AI, 27 lines written by hand (99.74% AI-written)
+✍️ 12,589 lines written by AI, 49 lines written by hand (99.61% AI-written)
 
-🔤 171,471 Input Tokens, 171,471 Output Tokens
+🔤 363 Input Tokens, 363 Output Tokens
 
-💵 $3.09 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 117 AI Prompts
+🧠 28 AI Sessions, 123 AI Prompts
 
-Grok                     10,104 lines        ████████████████████████░   94.47 % 
-Composer                 591 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Grok                     11,741 lines        ██████████████████████░░░   89.19 % 
+Composer                 1,423 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 6,541 characters per prompt
+🤖 AI-Driven — 99.61% of written lines came from AI
+📄 Detailed Prompter — average 780 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
