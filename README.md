@@ -90,34 +90,34 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   8 hrs 48 mins       ████████████████████████░   97.39 % 
-Agent                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Cursor                   7 hrs 9 mins        ████████████████████████░   96.80 % 
+Agent                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 💻 Operating System: 
-Linux                    9 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (88.64%)
+⏱ AI Coding Time: 6 hrs 33 mins (88.84%)
 
-✍️ 14,896 lines written by AI, 50 lines written by hand (99.67% AI-written)
+✍️ 10,886 lines written by AI, 23 lines written by hand (99.79% AI-written)
 
 🔤 125 Input Tokens, 125 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 87 AI Prompts
+🧠 18 AI Sessions, 70 AI Prompts
 
-Grok                     14,342 lines        ███████████████████████░░   93.35 % 
-Composer                 1,021 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Grok                     10,285 lines        ███████████████████████░░   91.50 % 
+Composer                 956 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📄 Detailed Prompter — average 1,202 characters per prompt
+🤖 AI-Driven — 99.79% of written lines came from AI
+📄 Detailed Prompter — average 819 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
