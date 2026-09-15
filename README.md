@@ -66,19 +66,19 @@ Built stuff? Yup.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1817 commits        ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-🌆 Daytime                2918 commits        ████████████░░░░░░░░░░░░░   46.11 % 
-🌃 Evening                1428 commits        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-🌙 Night                  166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🌞 Morning                1817 commits        ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+🌆 Daytime                2918 commits        ████████████░░░░░░░░░░░░░   46.06 % 
+🌃 Evening                1428 commits        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+🌙 Night                  172 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1225 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Tuesday                  1082 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Wednesday                1290 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Thursday                 1270 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Friday                   1157 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Monday                   1225 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Tuesday                  1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Wednesday                1290 commits        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Thursday                 1270 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Friday                   1157 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 Sunday                   143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
@@ -90,34 +90,34 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   7 hrs 9 mins        ████████████████████████░   96.80 % 
-Agent                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Cursor                   4 hrs 48 mins       ████████████████████████░   95.23 % 
+Agent                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-Linux                    7 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (88.84%)
+⏱ AI Coding Time: 4 hrs 28 mins (88.8%)
 
-✍️ 10,886 lines written by AI, 23 lines written by hand (99.79% AI-written)
+✍️ 10,671 lines written by AI, 23 lines written by hand (99.78% AI-written)
 
-🔤 125 Input Tokens, 125 Output Tokens
+🔤 153 Input Tokens, 153 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 70 AI Prompts
+🧠 17 AI Sessions, 50 AI Prompts
 
-Grok                     10,285 lines        ███████████████████████░░   91.50 % 
-Composer                 956 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Grok                     10,111 lines        ███████████████████████░░   92.40 % 
+Composer                 832 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📄 Detailed Prompter — average 819 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.56% of changed lines were hand-edited
+🤖 AI-Driven — 99.78% of written lines came from AI
+📄 Detailed Prompter — average 1,377 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
