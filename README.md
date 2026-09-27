@@ -59,7 +59,7 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2012%20mins-blue?style=flat)
 
@@ -90,19 +90,19 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   8 hrs 17 mins       ████████████████████████░   94.17 % 
-Agent                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Cursor                   8 hrs 20 mins       ████████████████████████░   94.20 % 
+Agent                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 💻 Operating System: 
-Linux                    8 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 16 mins (71.34%)
+⏱ AI Coding Time: 6 hrs 16 mins (70.9%)
 
-✍️ 1,509 lines written by AI, 824 lines written by hand (64.68% AI-written)
+✍️ 1,509 lines written by AI, 831 lines written by hand (64.49% AI-written)
 
 🔤 28,035 Input Tokens, 28,035 Output Tokens
 
@@ -114,10 +114,10 @@ Grok                     1,537 lines         ███████████�
 Composer                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.68% of written lines came from AI
+⚖️ Balanced with AI — 64.49% of written lines came from AI
 📄 Detailed Prompter — average 1,030 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 36.21% of changed lines were hand-edited
+🚀 High AI Trust — 36.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
