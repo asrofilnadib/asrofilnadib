@@ -59,28 +59,28 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2012%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1821 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-🌆 Daytime                3009 commits        ███████████░░░░░░░░░░░░░░   45.69 % 
-🌃 Evening                1568 commits        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌙 Night                  187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+🌞 Morning                1821 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌆 Daytime                3009 commits        ███████████░░░░░░░░░░░░░░   45.43 % 
+🌃 Evening                1594 commits        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+🌙 Night                  200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1248 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Tuesday                  1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Wednesday                1360 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Thursday                 1319 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Friday                   1211 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Sunday                   143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Monday                   1261 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Tuesday                  1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Wednesday                1360 commits        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Thursday                 1319 commits        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Friday                   1211 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Sunday                   169 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 
@@ -90,19 +90,19 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   8 hrs 20 mins       ████████████████████████░   94.20 % 
-Agent                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Cursor                   8 hrs 52 mins       ████████████████████████░   94.53 % 
+Agent                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 💻 Operating System: 
-Linux                    8 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 16 mins (70.9%)
+⏱ AI Coding Time: 6 hrs 16 mins (66.91%)
 
-✍️ 1,509 lines written by AI, 831 lines written by hand (64.49% AI-written)
+✍️ 1,509 lines written by AI, 844 lines written by hand (64.13% AI-written)
 
 🔤 28,035 Input Tokens, 28,035 Output Tokens
 
@@ -114,20 +114,20 @@ Grok                     1,537 lines         ███████████�
 Composer                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.49% of written lines came from AI
+⚖️ Balanced with AI — 64.13% of written lines came from AI
 📄 Detailed Prompter — average 1,030 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 36.45% of changed lines were hand-edited
+🚀 High AI Trust — 37.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-PHP                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+PHP                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
