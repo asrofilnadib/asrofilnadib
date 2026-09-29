@@ -59,28 +59,28 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1821 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌆 Daytime                3009 commits        ███████████░░░░░░░░░░░░░░   45.43 % 
-🌃 Evening                1594 commits        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-🌙 Night                  200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+🌞 Morning                1821 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+🌆 Daytime                3044 commits        ███████████░░░░░░░░░░░░░░   45.60 % 
+🌃 Evening                1611 commits        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+🌙 Night                  200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1261 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Tuesday                  1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Wednesday                1360 commits        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Thursday                 1319 commits        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Friday                   1211 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Sunday                   169 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Monday                   1313 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Tuesday                  1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Wednesday                1360 commits        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Thursday                 1319 commits        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Friday                   1211 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Sunday                   169 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
@@ -90,34 +90,35 @@ Sunday                   169 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   8 hrs 52 mins       ████████████████████████░   94.53 % 
-Agent                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Cursor                   8 hrs 29 mins       ██████████████████████░░░   87.27 % 
+Agent                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 
 💻 Operating System: 
-Linux                    9 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 16 mins (66.91%)
+⏱ AI Coding Time: 5 hrs 58 mins (61.37%)
 
-✍️ 1,509 lines written by AI, 844 lines written by hand (64.13% AI-written)
+✍️ 1,381 lines written by AI, 777 lines written by hand (63.99% AI-written)
 
-🔤 28,035 Input Tokens, 28,035 Output Tokens
+🔤 27,748 Input Tokens, 27,748 Output Tokens
 
 💵 $0.50 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 149 AI Prompts
+🧠 15 AI Sessions, 139 AI Prompts
 
-Grok                     1,537 lines         █████████████████████████   99.93 % 
+Grok                     1,286 lines         ███████████████████████░░   90.12 % 
+Opus                     140 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 Composer                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.13% of written lines came from AI
-📄 Detailed Prompter — average 1,030 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 37.28% of changed lines were hand-edited
+⚖️ Balanced with AI — 63.99% of written lines came from AI
+📄 Detailed Prompter — average 1,112 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 37.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
