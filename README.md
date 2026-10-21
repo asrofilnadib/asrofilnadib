@@ -59,28 +59,28 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2034%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2131 commits        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-🌆 Daytime                4230 commits        ████████████░░░░░░░░░░░░░   46.37 % 
-🌃 Evening                2524 commits        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-🌙 Night                  237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+🌞 Morning                2131 commits        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+🌆 Daytime                4247 commits        ████████████░░░░░░░░░░░░░   46.47 % 
+🌃 Evening                2525 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌙 Night                  237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1755 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Tuesday                  1507 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Wednesday                1877 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Thursday                 1938 commits        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Friday                   1600 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Monday                   1755 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Tuesday                  1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Wednesday                1877 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Thursday                 1938 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Friday                   1600 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
 Saturday                 219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Sunday                   226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Sunday                   226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 ```
 
 
@@ -90,34 +90,34 @@ Sunday                   226 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   11 hrs 7 mins       ███████████████████░░░░░░   77.67 % 
-Agent                    3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Cursor                   12 hrs 24 mins      ████████████████████░░░░░   81.10 % 
+Agent                    2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 
 💻 Operating System: 
-Linux                    14 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 56 mins (97.44%)
+⏱ AI Coding Time: 14 hrs 39 mins (95.81%)
 
-✍️ 23,666 lines written by AI, 56 lines written by hand (99.76% AI-written)
+✍️ 23,710 lines written by AI, 31 lines written by hand (99.87% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 200 AI Prompts
+🧠 31 AI Sessions, 201 AI Prompts
 
-Grok                     20,688 lines        █████████████████████░░░░   84.21 % 
-Composer                 3,879 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Grok                     20,375 lines        █████████████████████░░░░   82.92 % 
+Composer                 4,196 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.76% of written lines came from AI
-📚 Verbose Prompter — average 1,526 characters per prompt
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 1,078 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
