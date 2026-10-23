@@ -59,27 +59,27 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2045%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2131 commits        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-🌆 Daytime                4278 commits        ████████████░░░░░░░░░░░░░   46.65 % 
-🌃 Evening                2525 commits        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+🌞 Morning                2131 commits        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+🌆 Daytime                4297 commits        ████████████░░░░░░░░░░░░░   46.71 % 
+🌃 Evening                2534 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
 🌙 Night                  237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1755 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Tuesday                  1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Wednesday                1908 commits        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Thursday                 1938 commits        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Friday                   1600 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Saturday                 219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Monday                   1755 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Tuesday                  1531 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                1908 commits        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Thursday                 1960 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Friday                   1600 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Saturday                 219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 Sunday                   226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
@@ -90,34 +90,34 @@ Sunday                   226 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   11 hrs 1 min        ██████████████████░░░░░░░   71.62 % 
-Agent                    4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Cursor                   9 hrs 18 mins       ███████████████████░░░░░░   75.55 % 
+Agent                    3 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
 
 💻 Operating System: 
-Linux                    15 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 38 mins (95.17%)
+⏱ AI Coding Time: 11 hrs 25 mins (92.67%)
 
-✍️ 26,504 lines written by AI, 27 lines written by hand (99.9% AI-written)
+✍️ 8,800 lines written by AI, 16 lines written by hand (99.82% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 197 AI Prompts
+🧠 31 AI Sessions, 174 AI Prompts
 
-Grok                     21,414 lines        ███████████████████░░░░░░   77.97 % 
-Composer                 6,050 lines         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Composer                 6,034 lines         ████████████████░░░░░░░░░   64.81 % 
+Grok                     3,276 lines         █████████░░░░░░░░░░░░░░░░   35.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📄 Detailed Prompter — average 980 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📄 Detailed Prompter — average 712 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
