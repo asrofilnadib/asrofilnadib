@@ -59,28 +59,28 @@ Built stuff? Yup.
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2046%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2131 commits        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-🌆 Daytime                4297 commits        ████████████░░░░░░░░░░░░░   46.71 % 
-🌃 Evening                2534 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-🌙 Night                  237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+🌞 Morning                2139 commits        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+🌆 Daytime                4309 commits        ████████████░░░░░░░░░░░░░   46.70 % 
+🌃 Evening                2542 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+🌙 Night                  237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1755 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Tuesday                  1531 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Wednesday                1908 commits        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Thursday                 1960 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Friday                   1600 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Saturday                 219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Sunday                   226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Monday                   1755 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Tuesday                  1531 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Wednesday                1908 commits        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Thursday                 1968 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Friday                   1620 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Saturday                 219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Sunday                   226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
 
@@ -90,34 +90,34 @@ Sunday                   226 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   9 hrs 18 mins       ███████████████████░░░░░░   75.55 % 
-Agent                    3 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Cursor                   9 hrs               ███████████████████░░░░░░   75.13 % 
+Agent                    2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
 
 💻 Operating System: 
-Linux                    12 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 25 mins (92.67%)
+⏱ AI Coding Time: 11 hrs 4 mins (92.46%)
 
-✍️ 8,800 lines written by AI, 16 lines written by hand (99.82% AI-written)
+✍️ 8,675 lines written by AI, 16 lines written by hand (99.82% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 174 AI Prompts
+🧠 33 AI Sessions, 167 AI Prompts
 
-Composer                 6,034 lines         ████████████████░░░░░░░░░   64.81 % 
-Grok                     3,276 lines         █████████░░░░░░░░░░░░░░░░   35.19 % 
+Composer                 5,834 lines         ████████████████░░░░░░░░░   64.04 % 
+Grok                     3,276 lines         █████████░░░░░░░░░░░░░░░░   35.96 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.82% of written lines came from AI
-📄 Detailed Prompter — average 712 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+📄 Detailed Prompter — average 615 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
