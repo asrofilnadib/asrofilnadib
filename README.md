@@ -66,21 +66,21 @@ Built stuff? Yup.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2139 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-🌆 Daytime                4357 commits        ████████████░░░░░░░░░░░░░   46.98 % 
-🌃 Evening                2542 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌙 Night                  237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+🌞 Morning                2139 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌆 Daytime                4369 commits        ████████████░░░░░░░░░░░░░   47.04 % 
+🌃 Evening                2542 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+🌙 Night                  237 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1767 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Tuesday                  1543 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Wednesday                1908 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Thursday                 1968 commits        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Friday                   1620 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Monday                   1767 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Tuesday                  1543 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Wednesday                1920 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Thursday                 1968 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Friday                   1620 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 Saturday                 231 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Sunday                   238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Sunday                   238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -90,34 +90,32 @@ Sunday                   238 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Cursor                   3 hrs 27 mins       ████████████████░░░░░░░░░   65.17 % 
-Agent                    1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   34.83 % 
+Cursor                   2 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 55 mins (92.79%)
+⏱ AI Coding Time: 2 hrs 11 mins (92.91%)
 
-✍️ 5,300 lines written by AI, 6 lines written by hand (99.89% AI-written)
+✍️ 1,165 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 69 AI Prompts
+🧠 13 AI Sessions, 31 AI Prompts
 
-Composer                 3,293 lines         ███████████████░░░░░░░░░░   58.38 % 
-Grok                     2,348 lines         ██████████░░░░░░░░░░░░░░░   41.62 % 
+Composer                 1,275 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📝 Concise Prompter — average 223 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 267 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
