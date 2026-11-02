@@ -127,9 +127,7 @@ Go                       3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-
-  <img width="98%" alt="GitHub Trophies" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=asrofilnadib&theme=onedark&no-frame=true&column=6&margin-w=10&margin-h=10" />
-
+  <img width="98%" alt="GitHub Trophies" src="https://trophy.ryglcloud.net/?username=asrofilnadib&theme=onedark&no-frame=true&column=6&margin-w=10&margin-h=10" />
 </div>
 
 ---
